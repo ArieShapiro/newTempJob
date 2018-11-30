@@ -1,6 +1,5 @@
 {
   "_from": "package-json@^4.0.0",
-  "_id": "package-json@4.0.1",
   "_inBundle": false,
   "_integrity": "sha1-iGmgQBJTZhxMTKPabCEh7VVfXu0=",
   "_location": "/package-json",
@@ -22,11 +21,7 @@
   "_shasum": "8869a0401253661c4c4ca3da6c2121ed555f5eed",
   "_spec": "package-json@^4.0.0",
   "_where": "C:\\Users\\Arie\\Desktop\\TempJob\\temp-job\\backend\\node_modules\\latest-version",
-  "author": {
-    "name": "Arie Shapiro",
-    "email": "aryehshapiro@gmail.com",
-    "url": "http://trendhaus.at"
-  },
+  "author": "Arie Shapiro <aryehshapiro@gmail.com> (http://trendhaus.at)",
   "bugs": {
     "url": "https://github.com/sindresorhus/package-json/issues"
   },
@@ -37,7 +32,7 @@
     "express": "^4.16.3",
     "got": "^6.7.1",
     "mongoose": "^5.2.9",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^4.7.0",
     "registry-auth-token": "^3.0.1",
     "registry-url": "^3.0.3",
     "semver": "^5.1.0"
@@ -77,5 +72,6 @@
     "start": "node server.js",
     "test": "xo && ava"
   },
-  "version": "4.0.1"
+  "version": "4.0.1",
+  "main": "server.js"
 }
