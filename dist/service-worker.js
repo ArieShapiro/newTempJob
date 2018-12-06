@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4b780c113eb6a412aec1e499bbb964b7.js"
+  "/precache-manifest.f6477c31533a69ef64c34eef72a83527.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "temp-job"});
